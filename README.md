@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Badge]]
+[![GitHub Badge]
 (https://img.shields.io/github/followers/OscarLacomba?style=social)](https://github.com/OscarLacomba?tab=followers)
-[![LinkedIn Badge]]
+[![LinkedIn Badge]
 (https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/oscar-martínez-gracia/)
-[![HuggingFace Badge]]
+[![HuggingFace Badge]
 https://huggingface.co/osky9/
