@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Badge]]
-https://github.com/OscarLacomba/
+(https://img.shields.io/github/followers/jordancaraballo?style=social)](https://github.com/OscarLacomba?tab=followers)
 
 [![LinkedIn Badge]]
 https://www.linkedin.com/in/oscar-martínez-gracia-8132713b7/
