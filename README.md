@@ -1,5 +1,8 @@
 # Oscar Martinez-Gracia
 🔬 Medical Technologist certified by the American Society for Clinical Pathology (ASCP), with 20+ years of experience in clinical laboratories across Puerto Rico.
+📊 Currently studying Data Science — applying analytical thinking from the lab to the world of data!
+Now expanding my skills into Data Science, where I see exciting opportunities to bridge clinical laboratory data with modern analytics.
+
 
 📍 Based in Arecibo, Puerto Rico
 
