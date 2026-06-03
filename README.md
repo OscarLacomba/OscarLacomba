@@ -11,9 +11,8 @@ Now expanding my skills into Data Science, where I see exciting opportunities to
 🏥 Currently working at Laboratorio Clinico Teresita Utuado and Data Sciencie student.
 I've spent my career delivering accurate, reliable lab results that help physicians make better decisions and improve patient outcomes. From community health centers to hospitals, I've worked across a wide range of clinical environments throughout Puerto Rico.
 Outside the lab, I enjoy running, reading, and computers.
-📫 Contact
 
-📧 oskytm@hotmail.com
+📫 Contact📧 oskytm@hotmail.com
 📞 787-356-0745
 
 -->
