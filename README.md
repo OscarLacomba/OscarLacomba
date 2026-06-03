@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 (https://img.shields.io/github/followers/jordancaraballo?style=social)](https://github.com/OscarLacomba?tab=followers)
 
 [![LinkedIn Badge]]
-https://www.linkedin.com/in/oscar-martínez-gracia-8132713b7/
+(https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/oscar-martínez-gracia/
 
 [![HuggingFace Badge]]
 https://huggingface.co/osky9/
