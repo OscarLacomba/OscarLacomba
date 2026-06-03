@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Badge]
+[![GitHub Badge]]
 https://github.com/OscarLacomba/
 
-[![LinkedIn Badge]
+[![LinkedIn Badge]]
 https://www.linkedin.com/in/oscar-martínez-gracia-8132713b7/
 
-[![HuggingFace Badge]
+[![HuggingFace Badge]]
 https://huggingface.co/osky9/
