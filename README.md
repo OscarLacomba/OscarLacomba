@@ -13,7 +13,7 @@ I've spent my career delivering accurate, reliable lab results that help physici
 Outside the lab, I enjoy running, reading, and computers.
 
 📫 Contact📧 oskytm@hotmail.com
-📞 787-356-0745
+
 
 -->
 [![GitHub Badge](https://img.shields.io/github/followers/OscarLacomba?style=social)](https://github.com/OscarLacomba?tab=followers)
